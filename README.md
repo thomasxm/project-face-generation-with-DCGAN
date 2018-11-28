@@ -12,7 +12,7 @@ In this project, we use deep convolutional generative adversarial networks to ge
 * DCGAN
 * Regularization
 * Feedforward neural networks
-* backward propagation
+* Backward propagation
 * Activation functions
 * Hyper-parameters tuning
 * Adaptive learning rate
