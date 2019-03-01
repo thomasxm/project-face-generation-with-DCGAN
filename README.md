@@ -3,7 +3,7 @@
 [image1]: ./processed-face-data.png "Sample Output"
 
 
-# project-face-generation-with-DCGAN
+# Project-face-generation-with-DCGAN
 In this project, we use deep convolutional generative adversarial networks to generate new images of faces.
 
 ![Sample Output][image1]
